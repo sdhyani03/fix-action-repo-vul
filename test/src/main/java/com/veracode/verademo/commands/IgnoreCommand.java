@@ -51,6 +51,7 @@ public class IgnoreCommand implements BlabberCommand {
 			e.printStackTrace();
 		}
 	}
+	
 
 }
 
